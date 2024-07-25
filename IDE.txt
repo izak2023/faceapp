@@ -1,0 +1,4 @@
+LC_ALL="de"
+LC_MESSAGES="en-us"
+LANG="zh-cn"
+LANGUAGE="fr"
